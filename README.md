@@ -3,8 +3,8 @@
 ## NLP Case Study — CA3 Submission
 
 ### Authors
-- **Shoeb Shakil Sutar** — Symbiosis Institute of Technology, Pune
-- **Aryan Rajiender Sharma** — Symbiosis Institute of Technology, Pune
+- **Shoeb Shakil Sutar (25070149022)**
+- **Aryan Rajiender Sharma (25070149035)**
 
 ---
 
