@@ -36,11 +36,9 @@ Approach B — OpenAI fine-tuning:
 
 ## Repo Layout
 
-notebooks/
-  Traditional_ML_Implementation_Abstract.ipynb  — all sklearn models
-  NLP_Fine_Tuning.ipynb                         — GPT fine-tuning pipeline
-requirements.txt
-
+- `notebooks/Traditional_ML_Implementation_Abstract.ipynb` — all sklearn models
+- `notebooks/NLP_Fine_Tuning.ipynb` — GPT fine-tuning pipeline
+- `requirements.txt` — dependencies
 ## Running the Code
 
 sklearn notebook: Open in Colab → upload classified_abstracts.csv → run all.
